@@ -1,8 +1,14 @@
-### Hi there 👋
+###  - The secret of success is sincerity.
 
+### Hello, 👋
+- 🔭 I’m currently working on React Native.
+- 🌱 I’m currently learning Flutter/ReactNative.
+- 👯 I’m looking to collaborate on ReactNative.
+- 💬 Ask me about ReactNative.
+- 📫 How to reach me: linkedin.com/in/irfan-ahmed-web/
 
-# Recently, im working as React Native Developer.
-### Visit my portfolio: https://iffi96.github.io/
+###### Visit my portfolio: https://iffi96.github.io/
+
 <!--
 **iffi96/iffi96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
