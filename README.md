@@ -2,7 +2,7 @@
 
 ### Hello, 👋
 - 🔭 I’m currently working on React Native.
-- 🌱 I’m currently learning Flutter/ReactNative.
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate on ReactNative.
 - 💬 Ask me about ReactNative.
 - 📫 How to reach me: linkedin.com/in/irfan-ahmed-web/
