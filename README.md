@@ -1,8 +1,8 @@
 ###  - The secret of success is sincerity.
 
-### Hello, 👋
+### Hello, I am Irfan Ahmed, Senior React Native Developer. 👋
 - 🔭 I’m currently working on React Native.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I'm having 5 years of experience in React Native.
 - 👯 I’m looking to collaborate on ReactNative.
 - 💬 Ask me about ReactNative.
 - 📫 How to reach me: linkedin.com/in/irfan-ahmed-web/
